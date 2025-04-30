@@ -53,7 +53,7 @@ export default function TrustRating({
         name="star-outline"
         size={44}
         color="#FFD700"
-        style={styles.star}
+        style={styles.star} 
       />
     );
   }
